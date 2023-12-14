@@ -1,6 +1,3 @@
-// A Girl's Story
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 using namespace std;
 

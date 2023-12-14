@@ -1,6 +1,3 @@
-// Count The Mines
-// Wrong answer on test 2
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 using namespace std;

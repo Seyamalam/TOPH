@@ -1,6 +1,3 @@
-// BPL Mubarak!
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 void Ball_Count(char str[])

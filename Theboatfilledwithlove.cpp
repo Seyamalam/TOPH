@@ -1,7 +1,3 @@
-// The Boat Filled With Love
-// Accepted
-// Author @ Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int main()

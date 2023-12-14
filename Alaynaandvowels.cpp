@@ -1,6 +1,3 @@
-// Alayna and Vowels
-// ACCEPTED
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int counting_vowels(char w[])

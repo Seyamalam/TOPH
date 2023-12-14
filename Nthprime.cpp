@@ -1,6 +1,3 @@
-// Nth Prime
-//
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int main()

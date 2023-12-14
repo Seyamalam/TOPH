@@ -1,7 +1,3 @@
-// Alayna's Adventure Journey
-// ACCEPTED
-// Author @ Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int main()

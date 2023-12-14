@@ -1,6 +1,3 @@
-// Divisors
-// ACCEPTED
-// Author @ Abuhena Rony
 #include <iostream>
 
 using namespace std;

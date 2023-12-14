@@ -1,6 +1,3 @@
-// Set Union
-// Wrong Answer on test 02
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int merge_array(int arr1[], int arr2[], int arr3[], int n1, int n2, int n3)

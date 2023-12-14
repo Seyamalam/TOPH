@@ -1,7 +1,3 @@
-// Sofdor Ali's Magical Blackboard!
-// ACCEPTED
-// Author @ Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int main() {

@@ -1,6 +1,3 @@
-// Full Pyramid
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,7 +1,3 @@
-// Digit Separation
-// ACCEPTED
-// Created by Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int summation(char n[])

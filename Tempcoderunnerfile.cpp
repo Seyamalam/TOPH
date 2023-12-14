@@ -1,6 +1,3 @@
-// Thought Game
-//
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int main()

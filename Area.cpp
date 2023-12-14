@@ -1,6 +1,3 @@
-// Area
-// Wrong answer on test 2
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int find_area(int num)

@@ -1,6 +1,3 @@
-// The Titan
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,3 @@
-// For Loop FTW
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int main()

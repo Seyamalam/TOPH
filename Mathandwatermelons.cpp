@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int m; // watermelons
-    int k; // number of people
+    int m;
+    int k;
     cin >> m >> k;
     cout << m % k;
     return 0;

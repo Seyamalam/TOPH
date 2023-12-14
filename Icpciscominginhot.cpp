@@ -1,6 +1,3 @@
-// ICPC Is Coming in Hot!
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 using namespace std;
 

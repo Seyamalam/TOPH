@@ -1,6 +1,3 @@
-// Hashtag
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 void hashtag(char str[])

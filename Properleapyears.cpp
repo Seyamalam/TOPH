@@ -1,6 +1,3 @@
-// Proper Leap Years
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 void is_leap_year(int yr)

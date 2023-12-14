@@ -1,6 +1,3 @@
-// Running Average Again
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int main()

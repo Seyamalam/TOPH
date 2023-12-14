@@ -1,6 +1,3 @@
-// Victory Robot
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 void bijoy_robot(int number)

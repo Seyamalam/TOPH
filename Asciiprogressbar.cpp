@@ -1,6 +1,3 @@
-// ASCII Progress Bar
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 void ascii_progress_bar(double perc)

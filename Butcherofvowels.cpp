@@ -1,6 +1,3 @@
-// Butcher of Vowels
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int finding_vowels(char str[])

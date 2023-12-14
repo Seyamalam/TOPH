@@ -1,7 +1,3 @@
-// Counting the Counts
-// ACCEPTED
-// Abuhena Rony
-
 #include <bits/stdc++.h>
 
 bool grade_check(int num)

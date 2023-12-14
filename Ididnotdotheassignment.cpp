@@ -1,7 +1,3 @@
-// I Did Not Do the Assignment
-// ACCEPTED
-// Author @ Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int isPrime(int number) {

@@ -1,6 +1,3 @@
-// Niko Goes Farming
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 using namespace std;
 

@@ -1,7 +1,3 @@
-// Arithmetic Sequence (Easy)
-// ACCEPTED
-// Created by Abuhena Rony
-
 #include <bits/stdc++.h>
 
 int main()

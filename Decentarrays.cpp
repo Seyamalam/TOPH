@@ -1,6 +1,3 @@
-// Decent Arrays
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;

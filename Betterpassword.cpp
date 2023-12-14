@@ -1,6 +1,3 @@
-// Better Passwords
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 #include <bits/stdc++.h>
 #include <string>

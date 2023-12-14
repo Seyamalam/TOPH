@@ -1,6 +1,3 @@
-// Dengue
-// Accepted
-// Author @ Abuhena Rony
 #include <iostream>
 #include <string>
 

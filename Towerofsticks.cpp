@@ -1,6 +1,3 @@
-// Tower Of Sticks
-// Accepted
-// Author @ Abuhena Rony
 #include <bits/stdc++.h>
 
 int main()
